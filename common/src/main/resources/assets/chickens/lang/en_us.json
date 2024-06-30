@@ -136,4 +136,6 @@
 
   "gui.chickens.breeder.chicken_slot" : "Add Chickens!",
   "gui.chickens.breeder.seed_slot" : "Add Seeds!"
+
+  "item.chickens.chicken_egg.egg" : " egg"
 }
